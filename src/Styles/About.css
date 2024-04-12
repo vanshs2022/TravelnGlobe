@@ -1,0 +1,39 @@
+.about-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    max-width: 100%;
+}
+
+span{
+    font-weight: bold;
+}
+
+
+
+.abc{
+    width: 600px;
+    /* margin: 30px; */
+    border-radius: 10px;
+}
+
+h3{
+    font-size: 30px;
+}
+
+.about-text-content{
+    padding: 50px;
+}
+
+ul{
+    padding-left: 20px;
+    li{
+        list-style-type: none;
+    }
+}
+
+.list-icon{
+    width: 20px;
+    margin-right: 10px;
+}
